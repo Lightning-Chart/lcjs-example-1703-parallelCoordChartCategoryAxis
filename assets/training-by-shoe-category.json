@@ -1,0 +1,3002 @@
+[
+  {
+    "training_date": 1611804556825.6821,
+    "miles_run": 6.650263781089452,
+    "training_time": 9761386.43308079,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1547811876379.4597,
+    "miles_run": 8.721079435860634,
+    "training_time": 8362968.691100977,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1617889573247.9978,
+    "miles_run": 13.387307026696105,
+    "training_time": 5520364.454033977,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1583319049446.7341,
+    "miles_run": 12.504560482069586,
+    "training_time": 9868959.040056067,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1560767618694.74,
+    "miles_run": 10.37492064853188,
+    "training_time": 2379208.3419796703,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1535677445242.0315,
+    "miles_run": 13.609751225762604,
+    "training_time": 4667384.431541075,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1527113275503.3816,
+    "miles_run": 1.2231987435836418,
+    "training_time": 2009385.299226851,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1523977426215.2798,
+    "miles_run": 16.784401544895655,
+    "training_time": 5075994.393038897,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1521292004540.689,
+    "miles_run": 17.727686130395178,
+    "training_time": 5273522.624271031,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1516640904796.278,
+    "miles_run": 10.789798772515658,
+    "training_time": 9814163.6243758,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1666043230836.3965,
+    "miles_run": 12.967531486237942,
+    "training_time": 7780171.300781176,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1558099595269.3904,
+    "miles_run": 20.806377007472577,
+    "training_time": 7640350.134965368,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1595356864156.3213,
+    "miles_run": 10.198568864440862,
+    "training_time": 6304552.631160563,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1625155255769.5461,
+    "miles_run": 20.695404791617097,
+    "training_time": 11222918.862446181,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1570386495403.9177,
+    "miles_run": 1.3925206782134427,
+    "training_time": 5611003.450398637,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1649535104154.613,
+    "miles_run": 4.804897848907678,
+    "training_time": 3178992.559836285,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1524035501261.616,
+    "miles_run": 12.144006103449597,
+    "training_time": 3373323.12188034,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1648373418262.4128,
+    "miles_run": 8.902411406222164,
+    "training_time": 10579228.141470836,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1638059525748.886,
+    "miles_run": 17.145845672940652,
+    "training_time": 9393210.724846266,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1630055144854.212,
+    "miles_run": 21.126110750964497,
+    "training_time": 11132002.230509399,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1583494062390.141,
+    "miles_run": 18.662871305830823,
+    "training_time": 9086124.276166439,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1542549105637.991,
+    "miles_run": 13.752372708498733,
+    "training_time": 8938255.649052242,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1615233008333.0388,
+    "miles_run": 9.761926947718566,
+    "training_time": 9390017.288582679,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1562728656314.885,
+    "miles_run": 17.126630590218333,
+    "training_time": 3260102.771917519,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1566214673640.7612,
+    "miles_run": 20.698519084971,
+    "training_time": 9221854.232744705,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1534907056127.141,
+    "miles_run": 18.169005889027215,
+    "training_time": 7319057.781686916,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1634986537882.7842,
+    "miles_run": 13.997014169492275,
+    "training_time": 5610153.466480533,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1661043307059.0444,
+    "miles_run": 7.80033153376971,
+    "training_time": 1876212.0519941377,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1555858330284.4165,
+    "miles_run": 12.374586349482689,
+    "training_time": 7531373.233558571,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1643916167903.7185,
+    "miles_run": 22.58257331903728,
+    "training_time": 7686073.546114914,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1603555193287.1611,
+    "miles_run": 21.049416308443693,
+    "training_time": 4753562.9016180895,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1664882546579.7573,
+    "miles_run": 9.866248637123551,
+    "training_time": 6467973.429091617,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1554020276673.2412,
+    "miles_run": 1.725320015386773,
+    "training_time": 2523604.1565611805,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1517437842611.281,
+    "miles_run": 7.643309320863613,
+    "training_time": 4280902.570269749,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1670656459866.723,
+    "miles_run": 3.3884142141613522,
+    "training_time": 5207667.521499782,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1587759484321.5159,
+    "miles_run": 5.448875495519764,
+    "training_time": 5444900.711406491,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1563683630013.7283,
+    "miles_run": 17.93227940582179,
+    "training_time": 5795500.666336079,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1562399269803.2021,
+    "miles_run": 19.622556827613227,
+    "training_time": 2502461.9573721243,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1539032043842.8394,
+    "miles_run": 16.48588817196555,
+    "training_time": 5024169.856525039,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1560418503561.6433,
+    "miles_run": 11.198700070716603,
+    "training_time": 2119107.754451232,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1670276611001.3115,
+    "miles_run": 8.655707535393077,
+    "training_time": 6845420.181673311,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1545303974377.8267,
+    "miles_run": 22.514036374603066,
+    "training_time": 5485726.309205661,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1558548665902.3813,
+    "miles_run": 12.537119485591244,
+    "training_time": 3448055.947289793,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1516336770998.3862,
+    "miles_run": 5.374520708763357,
+    "training_time": 6388970.923717272,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1561882241743.55,
+    "miles_run": 5.5159181758361555,
+    "training_time": 5738296.04680719,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1631313441173.3801,
+    "miles_run": 19.43886734173073,
+    "training_time": 7977979.656568161,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1579553250915.242,
+    "miles_run": 8.207763324309502,
+    "training_time": 5874763.139559257,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1621349953155.2698,
+    "miles_run": 13.585901940705698,
+    "training_time": 9842350.469321776,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1669250772951.6575,
+    "miles_run": 1.9035264857015401,
+    "training_time": 9691735.33709593,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1576898492574.9224,
+    "miles_run": 20.406301239868768,
+    "training_time": 3567483.574748546,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1548152442453.296,
+    "miles_run": 21.3555567908989,
+    "training_time": 7346556.077524965,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1618306795128.1348,
+    "miles_run": 15.706515209418587,
+    "training_time": 10554130.60315529,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1658036437117.7588,
+    "miles_run": 17.063941945327386,
+    "training_time": 9554522.458020503,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1566428845056.9268,
+    "miles_run": 1.675169807244661,
+    "training_time": 8886564.9393015,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1549672661357.846,
+    "miles_run": 18.11093376231499,
+    "training_time": 5109190.30130049,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1671551655159.0627,
+    "miles_run": 6.887560417392504,
+    "training_time": 5851118.658796092,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1660821697579.4326,
+    "miles_run": 13.230694054437958,
+    "training_time": 2579008.5708702058,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1607269753994.1958,
+    "miles_run": 12.904317556756988,
+    "training_time": 2809245.305928879,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1579779889948.6914,
+    "miles_run": 17.885280637244406,
+    "training_time": 3440666.2688433523,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1579937770512.0962,
+    "miles_run": 17.134681632663998,
+    "training_time": 9340707.426266696,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1617656289769.7886,
+    "miles_run": 3.349936113566065,
+    "training_time": 10897554.98277891,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1577870235270.472,
+    "miles_run": 18.737090033721667,
+    "training_time": 10191282.945946248,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1543917895038.901,
+    "miles_run": 16.954480309758633,
+    "training_time": 6916163.514823766,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1609532114169.666,
+    "miles_run": 6.063833801994741,
+    "training_time": 11154372.460910989,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1669778473289.8271,
+    "miles_run": 13.546610766428373,
+    "training_time": 8134174.918068994,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1608873826401.458,
+    "miles_run": 7.539230031899636,
+    "training_time": 6849820.45677183,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1639165104534.4724,
+    "miles_run": 13.521923941997434,
+    "training_time": 11734340.931490596,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1565459294000.4504,
+    "miles_run": 15.638325452522624,
+    "training_time": 8683460.535922848,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1543886529386.0166,
+    "miles_run": 3.313918243874985,
+    "training_time": 8800340.199910821,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1627683707977.3403,
+    "miles_run": 17.207377259723476,
+    "training_time": 9622244.209486084,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1656038454876.6309,
+    "miles_run": 9.601266475870109,
+    "training_time": 6746856.596382224,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1536518229761.2056,
+    "miles_run": 5.685550986783207,
+    "training_time": 10522189.084862517,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1662901723948.764,
+    "miles_run": 2.9828950741843703,
+    "training_time": 8176015.670744717,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1567603994988.5457,
+    "miles_run": 18.508305922568404,
+    "training_time": 7590163.398366428,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1636447967928.4626,
+    "miles_run": 11.647802131178842,
+    "training_time": 9675009.330124889,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1625382338551.5767,
+    "miles_run": 6.860194085056494,
+    "training_time": 7176838.536033359,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1565187188846.7502,
+    "miles_run": 5.642320584653319,
+    "training_time": 10384619.4215784,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1589437363700.6543,
+    "miles_run": 0.7097427622983142,
+    "training_time": 3199281.1108170636,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1653304718213.5815,
+    "miles_run": 7.4573141881464275,
+    "training_time": 6166116.208290034,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1643758587916.5933,
+    "miles_run": 14.939409281026968,
+    "training_time": 9025629.964004308,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1547647328755.0227,
+    "miles_run": 2.71659378048477,
+    "training_time": 3865988.8116713613,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1634599974963.7878,
+    "miles_run": 3.038972515862175,
+    "training_time": 10884929.74796736,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1580908739953.41,
+    "miles_run": 1.444042444075,
+    "training_time": 11850576.95927094,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1550021812200.3674,
+    "miles_run": 2.7982626075834403,
+    "training_time": 6296961.203598387,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1606755743283.7576,
+    "miles_run": 19.842891234758195,
+    "training_time": 2046037.469379351,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1663561460009.983,
+    "miles_run": 2.3945817143480035,
+    "training_time": 5538821.503594523,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1634539757298.1301,
+    "miles_run": 21.66692036252701,
+    "training_time": 2695657.723900048,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1598894784834.621,
+    "miles_run": 8.882152083470489,
+    "training_time": 10061181.281828592,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1545230162400.552,
+    "miles_run": 7.380309296628529,
+    "training_time": 2820191.6298016566,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1560779888092.9302,
+    "miles_run": 17.371233940226986,
+    "training_time": 10369925.602570744,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1533085495937.6965,
+    "miles_run": 7.341656999305572,
+    "training_time": 3297109.285248601,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1662570663961.34,
+    "miles_run": 16.280979070867183,
+    "training_time": 3972004.0942588067,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1586099509586.0405,
+    "miles_run": 8.144036170881263,
+    "training_time": 7003632.478481411,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1589127115279.3225,
+    "miles_run": 6.4741732055144094,
+    "training_time": 2512944.1055446737,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1534504012649.1304,
+    "miles_run": 5.670010896286573,
+    "training_time": 9466662.99516712,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1659719561713.7708,
+    "miles_run": 9.088368041144323,
+    "training_time": 6615418.913431013,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1546230076122.7083,
+    "miles_run": 9.216698137809644,
+    "training_time": 4061421.519834412,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1614191038871.1748,
+    "miles_run": 12.336338828751833,
+    "training_time": 4728618.291803112,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1651840212978.9458,
+    "miles_run": 13.265468876104023,
+    "training_time": 6915014.117801058,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1648731532276.7834,
+    "miles_run": 3.6838085546934596,
+    "training_time": 5871454.907269614,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1575077645840.525,
+    "miles_run": 13.094792505142278,
+    "training_time": 9595247.295513794,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1650266039301.508,
+    "miles_run": 4.861448800012794,
+    "training_time": 3091326.0975753237,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1523505145202.5386,
+    "miles_run": 2.1665154286793102,
+    "training_time": 10623764.618137047,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1556559641586.8225,
+    "miles_run": 1.2368937922835057,
+    "training_time": 4695332.780050267,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1618384751712.7336,
+    "miles_run": 2.083342222465091,
+    "training_time": 3115809.938661743,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1574395059819.0386,
+    "miles_run": 8.801549107528043,
+    "training_time": 8985266.753803195,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1531523990459.9465,
+    "miles_run": 8.033940142282542,
+    "training_time": 2412244.1330934674,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1632464801246.3633,
+    "miles_run": 11.992982716409847,
+    "training_time": 6439479.651901027,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1619783810286.7795,
+    "miles_run": 4.116077426421933,
+    "training_time": 2193654.6683268175,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1640601089125.3606,
+    "miles_run": 13.376415755282215,
+    "training_time": 9317165.0714617,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1523404425624.0347,
+    "miles_run": 16.607003904590794,
+    "training_time": 6962806.941206452,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1544095169497.3894,
+    "miles_run": 17.289921715970106,
+    "training_time": 10610828.827992171,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1561481919357.4475,
+    "miles_run": 22.67355166347526,
+    "training_time": 5128491.162919542,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1581996095148.2751,
+    "miles_run": 17.801097570890786,
+    "training_time": 6668049.2822917085,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1626996565169.2832,
+    "miles_run": 3.235318372962099,
+    "training_time": 11788559.07180713,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1639830880840.4622,
+    "miles_run": 2.6150289534247597,
+    "training_time": 5845283.257897692,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1629523976634.5762,
+    "miles_run": 3.764425905041175,
+    "training_time": 6563601.8128283005,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1637299344376.6978,
+    "miles_run": 3.8690610027826775,
+    "training_time": 4335060.87293836,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1634240592859.4478,
+    "miles_run": 7.060236528938254,
+    "training_time": 7709734.873130148,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1639681635836.5156,
+    "miles_run": 21.715715970711948,
+    "training_time": 10242823.405021768,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1609671810939.6255,
+    "miles_run": 18.954783488867886,
+    "training_time": 11138604.631831838,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1624557459953.8755,
+    "miles_run": 13.769600280271371,
+    "training_time": 2068545.4825708247,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1622603664503.3374,
+    "miles_run": 10.041977920477215,
+    "training_time": 1958662.1608927483,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1586334795106.689,
+    "miles_run": 16.23894082011475,
+    "training_time": 10513389.783519957,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1568241994235.9397,
+    "miles_run": 13.963699536668951,
+    "training_time": 6525266.819671164,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1614409699897.5654,
+    "miles_run": 5.628505585219733,
+    "training_time": 7533098.413845856,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1648816401344.455,
+    "miles_run": 17.70692178183871,
+    "training_time": 11629168.981690632,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1584807459400.1084,
+    "miles_run": 10.905182279202812,
+    "training_time": 8981643.453623516,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1582229954339.5798,
+    "miles_run": 16.687785569787884,
+    "training_time": 8168700.600521459,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1661985040953.798,
+    "miles_run": 16.816588230807017,
+    "training_time": 11581824.991860436,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1568743805675.6252,
+    "miles_run": 17.531767741046394,
+    "training_time": 6307091.847016638,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1655155095174.7861,
+    "miles_run": 21.80739563916352,
+    "training_time": 5011431.153044269,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1530636401879.819,
+    "miles_run": 9.493787563755443,
+    "training_time": 7357418.797248603,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1558288825050.905,
+    "miles_run": 5.291076841043262,
+    "training_time": 4792457.048843625,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1568315923814.6516,
+    "miles_run": 2.282135032471392,
+    "training_time": 3325497.6293323156,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1617454239125.9778,
+    "miles_run": 6.296124585967714,
+    "training_time": 3762821.257588982,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1615385992079.888,
+    "miles_run": 16.182163972432658,
+    "training_time": 11318136.590489456,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1616171889701.133,
+    "miles_run": 14.739938022789339,
+    "training_time": 7059452.230703355,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1639892691903.6626,
+    "miles_run": 0.8395478504512779,
+    "training_time": 5584634.1109238295,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1522836650881.452,
+    "miles_run": 6.37762550861728,
+    "training_time": 7841387.447942301,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1550814808720.1428,
+    "miles_run": 4.976535860386176,
+    "training_time": 9180689.531181453,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1545606342537.7888,
+    "miles_run": 17.023258049462424,
+    "training_time": 7860288.231976571,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1516096019769.5125,
+    "miles_run": 10.096861650707268,
+    "training_time": 6664865.074219157,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1578965910642.3777,
+    "miles_run": 14.526506600255491,
+    "training_time": 10573982.21931106,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1651409922882.2378,
+    "miles_run": 22.58974533438043,
+    "training_time": 2604645.070559646,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1526878950309.9514,
+    "miles_run": 9.068247846191936,
+    "training_time": 7286017.905758519,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1516958803761.7014,
+    "miles_run": 1.1188993202720905,
+    "training_time": 6487686.790176615,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1610966267311.087,
+    "miles_run": 16.05709254801247,
+    "training_time": 7080706.950879201,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1587340338023.231,
+    "miles_run": 18.299663509532873,
+    "training_time": 9821931.87394406,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1666273850767.762,
+    "miles_run": 17.0211446855492,
+    "training_time": 5680345.897224597,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1523563966126.9082,
+    "miles_run": 5.841429803322503,
+    "training_time": 7496284.3617533315,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1577322119138.203,
+    "miles_run": 17.175981032812768,
+    "training_time": 6602102.836611092,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1655762007195.4565,
+    "miles_run": 15.514351747212274,
+    "training_time": 5637782.0997474175,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1651938576854.282,
+    "miles_run": 21.794971112916677,
+    "training_time": 6732284.073003392,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1645925331064.5825,
+    "miles_run": 13.584710948288748,
+    "training_time": 6224828.1276412215,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1541810823698.0815,
+    "miles_run": 14.716780088683254,
+    "training_time": 4596706.84847237,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1625909905450.7485,
+    "miles_run": 11.600636661905105,
+    "training_time": 10213050.241406677,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1630728586229.5198,
+    "miles_run": 11.517835543254884,
+    "training_time": 3091250.8266308587,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1647122224646.8918,
+    "miles_run": 16.611536258075656,
+    "training_time": 10734591.96780972,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1568809821089.9656,
+    "miles_run": 6.268661946308688,
+    "training_time": 4324910.605699326,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1584015977913.9414,
+    "miles_run": 1.5706416314085694,
+    "training_time": 8331332.578214238,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1531134686002.3743,
+    "miles_run": 17.844878751379667,
+    "training_time": 6282071.296078789,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1566164908497.588,
+    "miles_run": 11.629380539889695,
+    "training_time": 1820356.1734970459,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1524030167851.0698,
+    "miles_run": 17.36411392315891,
+    "training_time": 10027441.339130707,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1524582670674.4482,
+    "miles_run": 9.251206887534776,
+    "training_time": 4179681.968359481,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1653488417622.5457,
+    "miles_run": 21.019295590078627,
+    "training_time": 1836472.0126572142,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1658619944029.8455,
+    "miles_run": 22.0077947099595,
+    "training_time": 9655379.714171402,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1557036479172.278,
+    "miles_run": 5.7391334510160155,
+    "training_time": 7392953.271496897,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1608023123171.6692,
+    "miles_run": 12.332138255271053,
+    "training_time": 7339359.3068548255,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1606858816615.9443,
+    "miles_run": 3.5429787849733225,
+    "training_time": 2512365.893550779,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1533958525283.4565,
+    "miles_run": 4.454926009935441,
+    "training_time": 4645189.388714308,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1557705718504.5261,
+    "miles_run": 14.795004431116457,
+    "training_time": 2005278.8384273523,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1615803877789.469,
+    "miles_run": 1.6329948874596136,
+    "training_time": 3771799.463833582,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1575955112973.269,
+    "miles_run": 15.655640237954557,
+    "training_time": 11416002.648497015,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1576804525809.9143,
+    "miles_run": 15.869966629104598,
+    "training_time": 4364134.7310090065,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1662141612941.8838,
+    "miles_run": 15.721981941589425,
+    "training_time": 5532412.782176401,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1527389511128.3872,
+    "miles_run": 18.45395563724536,
+    "training_time": 2993248.790774127,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1614622589038.726,
+    "miles_run": 6.349701004951728,
+    "training_time": 2559077.6023204713,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1572906033672.2913,
+    "miles_run": 4.2938924606170765,
+    "training_time": 3028679.4738105675,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1597547301903.8936,
+    "miles_run": 3.27980902994327,
+    "training_time": 5129789.645143571,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1535004122414.3113,
+    "miles_run": 0.730622425374419,
+    "training_time": 3016701.081877619,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1527834176328.3022,
+    "miles_run": 20.056388248828352,
+    "training_time": 8074916.90819619,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1555037440212.8362,
+    "miles_run": 18.515984037198045,
+    "training_time": 8555618.156679923,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1593605422140.778,
+    "miles_run": 17.20536793424622,
+    "training_time": 4589030.305200896,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1586309453726.2393,
+    "miles_run": 17.031767329490744,
+    "training_time": 2441533.074103608,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1531465042479.2358,
+    "miles_run": 11.457350480946817,
+    "training_time": 9640278.751572315,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1528686840329.6272,
+    "miles_run": 21.201360997862157,
+    "training_time": 7979193.619681951,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1519696239711.3005,
+    "miles_run": 10.106305577125664,
+    "training_time": 10946402.889613774,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1595883218455.746,
+    "miles_run": 6.121363063850256,
+    "training_time": 4092085.622303691,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1664394677448.3018,
+    "miles_run": 2.858304277698349,
+    "training_time": 7371417.153610762,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1640659774571.388,
+    "miles_run": 1.0322731085085182,
+    "training_time": 10468859.790302543,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1671372131252.2627,
+    "miles_run": 20.23501284491481,
+    "training_time": 11583958.088036254,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1597194958104.3293,
+    "miles_run": 15.693587083718613,
+    "training_time": 11676451.751923215,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1537041860638.5488,
+    "miles_run": 18.613371548245,
+    "training_time": 3762461.3654430485,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1670619451532.1487,
+    "miles_run": 5.021712699812446,
+    "training_time": 7844875.351750557,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1620406076435.7058,
+    "miles_run": 14.90758542793544,
+    "training_time": 7845095.7446151655,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1545863033259.4675,
+    "miles_run": 16.76704625969704,
+    "training_time": 9941106.645158466,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1569633654347.2222,
+    "miles_run": 15.740629075404222,
+    "training_time": 8280930.209176693,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1561460430534.2773,
+    "miles_run": 11.33990077507354,
+    "training_time": 9954734.49272973,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1545548627603.6394,
+    "miles_run": 1.356284215742093,
+    "training_time": 10102862.00687478,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1556930366638.028,
+    "miles_run": 5.45887261756834,
+    "training_time": 8210223.0287593845,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1636843398019.1516,
+    "miles_run": 17.764819156048585,
+    "training_time": 3391585.8254277846,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1584373308268.3955,
+    "miles_run": 17.20720764052703,
+    "training_time": 4346815.3948567705,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1645213080276.766,
+    "miles_run": 20.148028586810202,
+    "training_time": 4375150.938301201,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1653821569776.602,
+    "miles_run": 10.501888415848178,
+    "training_time": 11471648.847648984,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1655946288467.2878,
+    "miles_run": 17.585914301000457,
+    "training_time": 4933273.48796531,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1639763510880.2393,
+    "miles_run": 17.29212978695196,
+    "training_time": 2417559.911768052,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1637445833866.5903,
+    "miles_run": 22.354249044105202,
+    "training_time": 10372789.807108887,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1662699062059.9844,
+    "miles_run": 15.555673230872094,
+    "training_time": 9154614.054753477,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1590712632289.769,
+    "miles_run": 4.823684573037238,
+    "training_time": 8307057.704397017,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1607535281290.2947,
+    "miles_run": 14.869068448064741,
+    "training_time": 7392749.950368743,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1613860804497.8733,
+    "miles_run": 17.263191272597783,
+    "training_time": 10276517.91239437,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1621015295175.514,
+    "miles_run": 6.012769766215155,
+    "training_time": 2780553.5516590457,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1671443030386.2886,
+    "miles_run": 17.292733624030692,
+    "training_time": 6820255.669415797,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1660054181831.997,
+    "miles_run": 19.462778484647306,
+    "training_time": 9773090.860640235,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1671276243348.6396,
+    "miles_run": 16.221089058797325,
+    "training_time": 8193873.634625659,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1610446769586.3547,
+    "miles_run": 4.731088511041925,
+    "training_time": 7413782.472813359,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1544460671630.0195,
+    "miles_run": 18.81156757610357,
+    "training_time": 7874286.541885513,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1635288279690.7734,
+    "miles_run": 19.33165157837005,
+    "training_time": 6195834.505316349,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1586334794475.3933,
+    "miles_run": 17.238274052786515,
+    "training_time": 3305162.5499660196,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1617768006072.5662,
+    "miles_run": 20.682484486586517,
+    "training_time": 5251965.914356281,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1612190094732.01,
+    "miles_run": 8.534930296276423,
+    "training_time": 7028602.432552976,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1594685376550.435,
+    "miles_run": 5.309435328683392,
+    "training_time": 6542606.08074528,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1549182760232.694,
+    "miles_run": 2.8563630868771326,
+    "training_time": 11511971.054999337,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1609235544287.377,
+    "miles_run": 5.221019656554969,
+    "training_time": 2335689.3368763784,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1613092147175.974,
+    "miles_run": 18.085683950316323,
+    "training_time": 9829238.650016613,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1584243311879.294,
+    "miles_run": 4.611423691089077,
+    "training_time": 9115109.5700726,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1666682180388.3667,
+    "miles_run": 6.8232633260019835,
+    "training_time": 4524042.793846082,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1635160219099.5764,
+    "miles_run": 0.6109910809093498,
+    "training_time": 7976659.578156558,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1657751445805.6687,
+    "miles_run": 9.362378005050571,
+    "training_time": 4107792.7332681664,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1647540726141.5684,
+    "miles_run": 12.432788335968501,
+    "training_time": 5078357.142221659,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1656196267198.1067,
+    "miles_run": 18.684633677116228,
+    "training_time": 5014450.462011846,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1561979591476.8022,
+    "miles_run": 16.472924985431774,
+    "training_time": 10475366.327089282,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1641473064123.7183,
+    "miles_run": 8.294712838983617,
+    "training_time": 5998321.140915624,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1576258305822.4023,
+    "miles_run": 10.393371725199206,
+    "training_time": 6217146.225138183,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1516525539921.8726,
+    "miles_run": 20.92794002184168,
+    "training_time": 5854325.967125101,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1595138334899.3406,
+    "miles_run": 11.815322229106814,
+    "training_time": 2837824.7520025023,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1544200066915.4949,
+    "miles_run": 2.681563534101788,
+    "training_time": 5571663.5178756695,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1530427298475.5708,
+    "miles_run": 9.63121119015601,
+    "training_time": 10928295.269302709,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1550872162312.0051,
+    "miles_run": 12.721555105333417,
+    "training_time": 3764086.6760936333,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1554412944597.6912,
+    "miles_run": 13.276755241274426,
+    "training_time": 3819147.055018528,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1635176817400.5205,
+    "miles_run": 6.670429357179629,
+    "training_time": 10876940.045305476,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1653690607523.2642,
+    "miles_run": 5.511534467761054,
+    "training_time": 7895162.648015423,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1520828155700.9004,
+    "miles_run": 5.118873763402662,
+    "training_time": 5690862.765817649,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1532756230567.3945,
+    "miles_run": 21.31424098682536,
+    "training_time": 5925222.290628325,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1561619117130.9631,
+    "miles_run": 14.316751837521668,
+    "training_time": 6189886.488864274,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1627848541076.943,
+    "miles_run": 13.485766949010406,
+    "training_time": 2882602.91813653,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1553404734357.0938,
+    "miles_run": 21.354147639723863,
+    "training_time": 9995676.390027186,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1665753758522.7827,
+    "miles_run": 7.920107844785757,
+    "training_time": 8584515.931015227,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1628896802445.9102,
+    "miles_run": 11.28583725332513,
+    "training_time": 7810649.199106592,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1617470561404.5334,
+    "miles_run": 21.94200598878165,
+    "training_time": 4375101.833894647,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1567851698564.9998,
+    "miles_run": 21.271333220225486,
+    "training_time": 6735260.008682337,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1628226375869.345,
+    "miles_run": 16.790380254066093,
+    "training_time": 5490240.836790642,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1607824623854.1614,
+    "miles_run": 17.500737967920106,
+    "training_time": 2858792.5835813913,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1653742720226.67,
+    "miles_run": 20.25583018075593,
+    "training_time": 5830655.178979694,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1567336697340.5166,
+    "miles_run": 11.795514039699787,
+    "training_time": 7694650.176841234,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1601925427884.2537,
+    "miles_run": 22.095161317976963,
+    "training_time": 6862530.997115272,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1531352338690.0137,
+    "miles_run": 17.626935153031447,
+    "training_time": 7208560.893328547,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1528573703910.2964,
+    "miles_run": 4.811219463098971,
+    "training_time": 10444871.73525632,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1650920227268.9358,
+    "miles_run": 18.778540099407568,
+    "training_time": 11230507.705995537,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1515250444855.8096,
+    "miles_run": 17.829093293812996,
+    "training_time": 6830696.242616452,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1642879301802.1711,
+    "miles_run": 15.041229501608795,
+    "training_time": 9574790.976046944,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1651657989251.7507,
+    "miles_run": 22.5652178902609,
+    "training_time": 2345661.886574229,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1611894849761.9128,
+    "miles_run": 20.54469373477303,
+    "training_time": 6891307.302832099,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1562561811217.199,
+    "miles_run": 3.343064266821733,
+    "training_time": 3028810.8370023253,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1646818141967.4468,
+    "miles_run": 5.593870674106795,
+    "training_time": 9630103.233117517,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1580748707994.548,
+    "miles_run": 1.157582855014216,
+    "training_time": 3546130.065989137,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1593803356890.688,
+    "miles_run": 14.379201741771464,
+    "training_time": 3155887.9176437138,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1615802444265.1792,
+    "miles_run": 10.504267962874572,
+    "training_time": 9746476.613416199,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1581464827744.9001,
+    "miles_run": 0.9129489166371589,
+    "training_time": 7378920.090833955,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1539051539214.1038,
+    "miles_run": 3.849720979225558,
+    "training_time": 11793446.711663049,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1525482112387.317,
+    "miles_run": 7.707964323777945,
+    "training_time": 5296047.18840178,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1518763320917.3435,
+    "miles_run": 11.339171221382163,
+    "training_time": 2466929.7755074045,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1632593975140.2498,
+    "miles_run": 3.432891049416517,
+    "training_time": 7775777.060268614,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1596805465686.646,
+    "miles_run": 2.754383527137082,
+    "training_time": 10982445.584439265,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1622417918335.075,
+    "miles_run": 3.790709938929582,
+    "training_time": 4016089.406852648,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1591962301777.2908,
+    "miles_run": 5.397782247257574,
+    "training_time": 11952998.9335215,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1543933470057.65,
+    "miles_run": 3.2345075818970694,
+    "training_time": 4491036.821717672,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1541360638648.7195,
+    "miles_run": 11.111890002527739,
+    "training_time": 10215081.354566954,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1544906143992.5798,
+    "miles_run": 14.325960279504052,
+    "training_time": 11344883.850128531,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1622536573592.5693,
+    "miles_run": 2.880830484951549,
+    "training_time": 9115448.938227307,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1517243447304.4111,
+    "miles_run": 6.164722203023588,
+    "training_time": 5227411.312895925,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1639907911663.6504,
+    "miles_run": 3.884385317070665,
+    "training_time": 8456982.92046769,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1629535969804.2227,
+    "miles_run": 18.05606117201031,
+    "training_time": 4135317.3392811394,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1617741244507.2495,
+    "miles_run": 6.042704550377023,
+    "training_time": 7446508.054588568,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1609504147472.2349,
+    "miles_run": 2.2010911290991864,
+    "training_time": 2287639.110120609,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1563914063040.474,
+    "miles_run": 9.051772531913754,
+    "training_time": 3252909.539027417,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1657781345137.8567,
+    "miles_run": 21.588833605997316,
+    "training_time": 4317218.575494828,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1542262535208.9224,
+    "miles_run": 0.8808589307086612,
+    "training_time": 2134134.1613875018,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1611920635008.486,
+    "miles_run": 13.107722971592837,
+    "training_time": 8374004.33663343,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1563418691131.4402,
+    "miles_run": 12.401746652487663,
+    "training_time": 6427858.246567311,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1558475715802.5896,
+    "miles_run": 0.5715781692432135,
+    "training_time": 8002908.590710284,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1635744501416.4277,
+    "miles_run": 3.469075772576238,
+    "training_time": 4924567.663808078,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1633775661005.5088,
+    "miles_run": 10.198795506591527,
+    "training_time": 11757001.935663834,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1659713649031.6414,
+    "miles_run": 5.056231892418878,
+    "training_time": 6336398.048169592,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1517900859617.0278,
+    "miles_run": 6.510608809463407,
+    "training_time": 9670732.918045102,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1631109970815.1455,
+    "miles_run": 16.26677199612033,
+    "training_time": 2275311.3453605454,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1569022145985.4817,
+    "miles_run": 6.799127556054547,
+    "training_time": 4064487.769016262,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1597408922836.7234,
+    "miles_run": 6.272392807527325,
+    "training_time": 10116023.496865265,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1550897878739.3357,
+    "miles_run": 14.884412199073575,
+    "training_time": 8261837.48921052,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1516349752501.7893,
+    "miles_run": 2.4062878941547257,
+    "training_time": 8403434.863571532,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1514805592688.323,
+    "miles_run": 19.91118341667329,
+    "training_time": 11515383.33846038,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1537421178421.5671,
+    "miles_run": 4.146839676240836,
+    "training_time": 3834701.7373922477,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1516720393779.652,
+    "miles_run": 18.578223648522172,
+    "training_time": 4547737.173016274,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1580738250428.5085,
+    "miles_run": 21.63270459268903,
+    "training_time": 6142915.198815557,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1651811338456.4465,
+    "miles_run": 15.094311776314276,
+    "training_time": 8219067.721845662,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1519250936018.105,
+    "miles_run": 21.579581284446917,
+    "training_time": 10789016.642973084,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1651683525127.2825,
+    "miles_run": 3.9983964884823395,
+    "training_time": 3488237.6884740656,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1580488947484.061,
+    "miles_run": 20.253024373285616,
+    "training_time": 10254961.404753653,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1664956772161.7612,
+    "miles_run": 8.935397382127888,
+    "training_time": 11292664.59860552,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1645653714174.5835,
+    "miles_run": 8.512806484137009,
+    "training_time": 5613745.08078307,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1631576661354.2249,
+    "miles_run": 16.185986991024592,
+    "training_time": 10625743.037650997,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1532820494723.1782,
+    "miles_run": 15.201714291310347,
+    "training_time": 7511475.627858178,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1671555644689.6934,
+    "miles_run": 20.67705967543489,
+    "training_time": 3986174.306343562,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1629672801810.3152,
+    "miles_run": 20.93367965038039,
+    "training_time": 5855267.896329444,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1667338700198.4468,
+    "miles_run": 18.603724162742814,
+    "training_time": 5544345.099149467,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1575843523857.3901,
+    "miles_run": 1.0590161807580807,
+    "training_time": 2919668.5597795937,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1626169546932.1455,
+    "miles_run": 8.247102489623273,
+    "training_time": 3836037.5994364126,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1605297516065.6526,
+    "miles_run": 5.136726789548069,
+    "training_time": 11563532.10226603,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1627004293232.7227,
+    "miles_run": 17.569565970343994,
+    "training_time": 3806960.2311004433,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1648055633140.737,
+    "miles_run": 21.87987922478852,
+    "training_time": 9296165.487592898,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1621143142623.996,
+    "miles_run": 17.950485953328425,
+    "training_time": 5501378.61180795,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1548293613672.2437,
+    "miles_run": 8.947776667984622,
+    "training_time": 2029751.2674510104,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1601053706552.298,
+    "miles_run": 7.906834203533525,
+    "training_time": 4916406.229143584,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1524701765910.3687,
+    "miles_run": 10.084915043402983,
+    "training_time": 5535653.284929107,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1536709375930.5803,
+    "miles_run": 6.870559688500931,
+    "training_time": 10375684.73237647,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1652476822695.664,
+    "miles_run": 8.290009063192162,
+    "training_time": 3120295.579720743,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1611251925897.977,
+    "miles_run": 15.458344447233275,
+    "training_time": 4697124.44361826,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1519716042270.7532,
+    "miles_run": 21.642666752802032,
+    "training_time": 9917573.350969994,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1629396445944.8013,
+    "miles_run": 15.491520037984841,
+    "training_time": 2492958.819598047,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1591599105581.0667,
+    "miles_run": 2.34204882399089,
+    "training_time": 1813527.7769419057,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1583093733402.8264,
+    "miles_run": 6.2177289571562415,
+    "training_time": 3296345.1660560956,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1645385273946.1243,
+    "miles_run": 10.993082077527323,
+    "training_time": 6030972.351768657,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1603052134836.5713,
+    "miles_run": 2.0671918634602324,
+    "training_time": 6976961.523138061,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1531341232255.685,
+    "miles_run": 8.34136345701081,
+    "training_time": 5285856.454240674,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1522234245168.5457,
+    "miles_run": 17.191451045633674,
+    "training_time": 9537529.602591543,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1626505682018.691,
+    "miles_run": 11.547834740402267,
+    "training_time": 10802980.529222546,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1629696876406.3154,
+    "miles_run": 22.286703899926497,
+    "training_time": 3182671.4886652716,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1606063023634.957,
+    "miles_run": 4.36249026979383,
+    "training_time": 9877237.459784845,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1599512392202.6555,
+    "miles_run": 18.74639897547921,
+    "training_time": 5210288.49292626,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1657336796091.98,
+    "miles_run": 13.615490076398304,
+    "training_time": 9203549.214967428,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1657710814893.2812,
+    "miles_run": 21.401883528864776,
+    "training_time": 5813977.448023417,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1545000704373.9077,
+    "miles_run": 4.551060161536931,
+    "training_time": 5277784.09752378,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1553507829739.3076,
+    "miles_run": 12.851328748786056,
+    "training_time": 3632837.5651888903,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1595765030579.1965,
+    "miles_run": 4.98649042890026,
+    "training_time": 10455035.020717647,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1641673961777.468,
+    "miles_run": 17.751472616742635,
+    "training_time": 2263734.4138322514,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1596488698890.3613,
+    "miles_run": 4.65921736411462,
+    "training_time": 10860372.79124107,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1619808542484.329,
+    "miles_run": 2.375614016534197,
+    "training_time": 7469208.476650309,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1622684643432.8684,
+    "miles_run": 22.26315167236807,
+    "training_time": 4909665.703256931,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1652757606950.0757,
+    "miles_run": 17.197637982033815,
+    "training_time": 2258683.93104505,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1557996845621.205,
+    "miles_run": 14.239715588558912,
+    "training_time": 5288499.234068089,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1541057338973.6587,
+    "miles_run": 10.325753186765708,
+    "training_time": 4931208.400165808,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1626066911748.7031,
+    "miles_run": 15.949706723862628,
+    "training_time": 8994045.980542146,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1614129695577.576,
+    "miles_run": 17.965267637704372,
+    "training_time": 7201313.413987398,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1566538949554.9922,
+    "miles_run": 2.3268571017750728,
+    "training_time": 3790762.961408759,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1658635114301.9167,
+    "miles_run": 22.24064454172793,
+    "training_time": 10502025.278720276,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1588536607235.7183,
+    "miles_run": 3.6099503798081964,
+    "training_time": 5556373.907194849,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1526282718475.1626,
+    "miles_run": 13.905683303697224,
+    "training_time": 9427484.784224719,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1661601043721.678,
+    "miles_run": 8.34669263933506,
+    "training_time": 9522100.62578389,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1621904701845.696,
+    "miles_run": 6.764443197306109,
+    "training_time": 7543461.091942888,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1548617884708.569,
+    "miles_run": 10.055230887168097,
+    "training_time": 1981866.6002204472,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1606295509342.5544,
+    "miles_run": 5.968413638825034,
+    "training_time": 8786595.75020309,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1596614070068.3472,
+    "miles_run": 14.080818308886347,
+    "training_time": 4141374.9590765145,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1659036860938.602,
+    "miles_run": 9.370538450828215,
+    "training_time": 10012595.084098665,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1524999320294.354,
+    "miles_run": 17.56989714681808,
+    "training_time": 6955727.895415302,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1672463846643.8433,
+    "miles_run": 4.156542118104065,
+    "training_time": 3959414.8554785843,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1660505066573.3079,
+    "miles_run": 20.07968406334365,
+    "training_time": 3737186.1930295555,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1627747068401.4543,
+    "miles_run": 0.9489225936000502,
+    "training_time": 11564295.654758872,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1651554012173.7153,
+    "miles_run": 5.932938296978352,
+    "training_time": 5477745.133234331,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1653996216172.5264,
+    "miles_run": 15.87103808812259,
+    "training_time": 9817840.442799192,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1619831342311.7107,
+    "miles_run": 15.05161062070911,
+    "training_time": 9534485.34783283,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1636683531657.1584,
+    "miles_run": 12.055183700801985,
+    "training_time": 11985489.941033712,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1654914851017.448,
+    "miles_run": 10.74929793292012,
+    "training_time": 8237319.350812762,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1630767328075.8958,
+    "miles_run": 6.4959571164674745,
+    "training_time": 8065118.891882897,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1602996352636.9119,
+    "miles_run": 4.465550185022569,
+    "training_time": 2542146.6128589944,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1621711061693.9731,
+    "miles_run": 10.81466842398421,
+    "training_time": 9517021.232571378,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1607420729680.124,
+    "miles_run": 12.797050463015587,
+    "training_time": 5048246.024356266,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1607203499370.547,
+    "miles_run": 22.150171777670995,
+    "training_time": 4978154.483570687,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1592458664259.3599,
+    "miles_run": 8.276062906954051,
+    "training_time": 9394861.737266824,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1541415464613.5217,
+    "miles_run": 12.026959374214115,
+    "training_time": 3911026.4077367336,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1668056811720.835,
+    "miles_run": 2.7424443341714375,
+    "training_time": 3252421.6236348306,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1595270710514.0994,
+    "miles_run": 14.742246095490485,
+    "training_time": 9591924.979447108,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1516822080695.7341,
+    "miles_run": 19.43243030981548,
+    "training_time": 11915692.13757294,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1667788833565.669,
+    "miles_run": 11.294445080951325,
+    "training_time": 9232302.961235667,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1576882495565.0837,
+    "miles_run": 17.664374149570712,
+    "training_time": 1992708.2034717787,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1587033072208.6985,
+    "miles_run": 17.54678414361128,
+    "training_time": 9999469.341067558,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1522727068765.077,
+    "miles_run": 3.919161932420647,
+    "training_time": 3586408.81753708,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1527924263000.8008,
+    "miles_run": 17.07972849568981,
+    "training_time": 6462570.959018183,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1536356227282.9375,
+    "miles_run": 3.690506515927162,
+    "training_time": 9953227.721490826,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1596418111611.9116,
+    "miles_run": 14.33796755096529,
+    "training_time": 10263969.590232963,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1603998434110.164,
+    "miles_run": 11.205347817350672,
+    "training_time": 11704048.8655678,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1647586988716.1255,
+    "miles_run": 15.333755648168145,
+    "training_time": 6083864.699275547,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1556591226238.514,
+    "miles_run": 9.812046385320771,
+    "training_time": 6126598.950854542,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1560334971815.571,
+    "miles_run": 4.835331201657966,
+    "training_time": 4166349.182441775,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1581718312077.2417,
+    "miles_run": 7.067897195853347,
+    "training_time": 9546057.50452663,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1525476614112.2534,
+    "miles_run": 17.403016036123017,
+    "training_time": 3943938.4685881212,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1588784684809.4946,
+    "miles_run": 7.010453695594776,
+    "training_time": 10297955.088687496,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1548384858952.8755,
+    "miles_run": 6.700789813995482,
+    "training_time": 6294694.311318352,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1551473557248.4585,
+    "miles_run": 12.71867245909317,
+    "training_time": 6220940.381486271,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1605374783100.4065,
+    "miles_run": 2.266594141068765,
+    "training_time": 11260428.861740647,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1602836392581.3347,
+    "miles_run": 7.5954107490541585,
+    "training_time": 10583763.117327178,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1564782756186.7185,
+    "miles_run": 9.549273944208693,
+    "training_time": 2614808.9866776136,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1663300454471.441,
+    "miles_run": 11.988414584288659,
+    "training_time": 6547817.901322369,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1569974226222.3992,
+    "miles_run": 19.274519652987998,
+    "training_time": 2441230.0225049555,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1663864886991.7256,
+    "miles_run": 12.113157041242383,
+    "training_time": 2740654.89215018,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1623382318694.281,
+    "miles_run": 12.972340362787902,
+    "training_time": 8159234.954511908,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1627362341482.1653,
+    "miles_run": 3.2725702912322685,
+    "training_time": 4862054.318573074,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1641122941743.1682,
+    "miles_run": 5.865220938343055,
+    "training_time": 7865827.199181071,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1607172724440.1042,
+    "miles_run": 3.3368216092105647,
+    "training_time": 4421106.594663783,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1619973275216.7024,
+    "miles_run": 22.396881048287536,
+    "training_time": 4153736.4795230334,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1654351484215.6724,
+    "miles_run": 19.562204640735686,
+    "training_time": 7610228.294643288,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1621349440059.7378,
+    "miles_run": 18.41257934425928,
+    "training_time": 7917776.264667521,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1617692093826.0068,
+    "miles_run": 3.3610709988843412,
+    "training_time": 2276578.9967097957,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1666793039761.2144,
+    "miles_run": 2.3415377404854345,
+    "training_time": 11479113.089667533,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1595672302253.816,
+    "miles_run": 13.801664592113932,
+    "training_time": 4460655.350186226,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1584783762601.519,
+    "miles_run": 4.995850942360743,
+    "training_time": 6811658.996121224,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1616733402022.275,
+    "miles_run": 20.6130948468291,
+    "training_time": 9090230.3907382,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1529316169257.7292,
+    "miles_run": 21.423904005881756,
+    "training_time": 11951971.913836746,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1528695378327.962,
+    "miles_run": 17.947923602833608,
+    "training_time": 10713336.760456068,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1558432615585.326,
+    "miles_run": 18.616472217690106,
+    "training_time": 5213313.506558615,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1650872055608.503,
+    "miles_run": 17.61855111590359,
+    "training_time": 9801438.964508072,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1646727299351.2686,
+    "miles_run": 19.397390551419463,
+    "training_time": 3205510.141351427,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1628126109421.0322,
+    "miles_run": 1.393053414346213,
+    "training_time": 8242511.262450604,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1625127521956.6873,
+    "miles_run": 22.556070885512597,
+    "training_time": 4999079.491207283,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1636159104879.508,
+    "miles_run": 11.483021324299155,
+    "training_time": 3478901.382522163,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1619675434704.0854,
+    "miles_run": 16.136648000060966,
+    "training_time": 7713813.644755082,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1574429951459.0652,
+    "miles_run": 17.320969677475144,
+    "training_time": 7774999.056015773,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1664565661698.554,
+    "miles_run": 6.578602307850208,
+    "training_time": 11289149.158559263,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1666335790709.3508,
+    "miles_run": 14.146582253660558,
+    "training_time": 11867410.322918655,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1596375274432.058,
+    "miles_run": 11.507778518286687,
+    "training_time": 11085887.094362184,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1628984774097.5525,
+    "miles_run": 18.34268654036478,
+    "training_time": 2420116.3608393962,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1616687945960.3948,
+    "miles_run": 8.001739401755017,
+    "training_time": 4102171.5733697237,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1618934469323.7542,
+    "miles_run": 0.945912814810636,
+    "training_time": 6867102.672555432,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1646982480119.8896,
+    "miles_run": 17.05866823515708,
+    "training_time": 1824324.0528786497,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1577400445286.5676,
+    "miles_run": 6.183769085250933,
+    "training_time": 6746528.784760651,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1669540263005.0066,
+    "miles_run": 15.369808830358636,
+    "training_time": 2317718.711043766,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1542276156914.078,
+    "miles_run": 14.45175080759031,
+    "training_time": 3404944.6780347405,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1553780886502.9802,
+    "miles_run": 7.070355636101919,
+    "training_time": 4765159.330778575,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1593786330392.2273,
+    "miles_run": 21.89941630170215,
+    "training_time": 11626242.950120723,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1595315525018.7598,
+    "miles_run": 7.0222090246963225,
+    "training_time": 6305768.703314948,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1635756191356.6829,
+    "miles_run": 19.14569403759565,
+    "training_time": 6218320.819163247,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1660936395090.4814,
+    "miles_run": 0.5545411144243563,
+    "training_time": 7701638.393748198,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1601698381116.0176,
+    "miles_run": 9.774322093078634,
+    "training_time": 8855394.940987295,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1533390993216.8867,
+    "miles_run": 15.584456406804923,
+    "training_time": 11244086.640839929,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1548743049158.9446,
+    "miles_run": 5.98704910844349,
+    "training_time": 10789106.399335481,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1664380243864.055,
+    "miles_run": 21.561647115812793,
+    "training_time": 5274002.594300962,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1536005148218.36,
+    "miles_run": 1.4659643242361713,
+    "training_time": 10662520.365926865,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1667264577419.304,
+    "miles_run": 21.746945833598435,
+    "training_time": 7494393.3387581045,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1598190614917.5203,
+    "miles_run": 21.73520903148375,
+    "training_time": 5360939.315751623,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1589915062230.582,
+    "miles_run": 5.067930502312068,
+    "training_time": 3468773.6511546792,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1542665918267.9458,
+    "miles_run": 7.074512716948814,
+    "training_time": 3504283.6983779026,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1645876505723.1357,
+    "miles_run": 9.336686365981699,
+    "training_time": 4567405.432814269,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1608601150658.8206,
+    "miles_run": 10.092098419511187,
+    "training_time": 5241487.643206753,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1625403428341.1733,
+    "miles_run": 1.3338274321194987,
+    "training_time": 8557679.078267885,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1658535257669.8965,
+    "miles_run": 4.848842027454959,
+    "training_time": 7995246.255864693,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1669496930084.3154,
+    "miles_run": 21.58141277055043,
+    "training_time": 7360524.964780541,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1603050915444.9211,
+    "miles_run": 5.935643973129028,
+    "training_time": 4938426.088812383,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1632790964539.0957,
+    "miles_run": 9.349678303991576,
+    "training_time": 9925859.798462119,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1632726480865.607,
+    "miles_run": 13.614645595685367,
+    "training_time": 9024068.527557,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1649161234188.3594,
+    "miles_run": 7.681563408121884,
+    "training_time": 11298860.891369699,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1572309508726.315,
+    "miles_run": 9.71843826155708,
+    "training_time": 3699291.4295233036,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1591699204249.066,
+    "miles_run": 17.803329589450474,
+    "training_time": 9159287.036876505,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1648932168502.7522,
+    "miles_run": 19.92673170277158,
+    "training_time": 8259742.922482436,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1524437960997.4282,
+    "miles_run": 11.74743448825624,
+    "training_time": 3793138.041207937,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1568705087460.3962,
+    "miles_run": 7.143254501150552,
+    "training_time": 4704964.579629153,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1617634199795.259,
+    "miles_run": 18.83363690013768,
+    "training_time": 10222608.172101937,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1568164540844.118,
+    "miles_run": 20.70449193532546,
+    "training_time": 10208269.538820822,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1578872402145.9473,
+    "miles_run": 14.453742459060901,
+    "training_time": 10982537.632621983,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1515264901068.3645,
+    "miles_run": 19.323149541768583,
+    "training_time": 2109972.0103352037,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1524620782741.0164,
+    "miles_run": 8.60474917358133,
+    "training_time": 2614235.325057855,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1596262603685.1084,
+    "miles_run": 4.3285541870892,
+    "training_time": 5000501.989756636,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1609271055000.4429,
+    "miles_run": 8.466095767242216,
+    "training_time": 9692157.074064367,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1528252719706.4673,
+    "miles_run": 13.170752771218078,
+    "training_time": 3575267.9703898816,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1662685151790.5105,
+    "miles_run": 20.16581638068706,
+    "training_time": 10718008.138153337,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1543034682015.4207,
+    "miles_run": 3.351320334494825,
+    "training_time": 2961741.835494901,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1552357786978.2117,
+    "miles_run": 11.190109104429515,
+    "training_time": 6118321.96084873,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1623553873289.8286,
+    "miles_run": 4.996921311012733,
+    "training_time": 2760247.514033,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1645851152301.711,
+    "miles_run": 17.346986941608705,
+    "training_time": 8910119.686232992,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1615619180547.461,
+    "miles_run": 12.541735310131502,
+    "training_time": 11387725.598182132,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1558811780918.279,
+    "miles_run": 16.012001937583825,
+    "training_time": 8895590.02494672,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1652095598121.7012,
+    "miles_run": 7.865563711532267,
+    "training_time": 10331235.775615675,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1569442015524.0198,
+    "miles_run": 3.2116009743717675,
+    "training_time": 9214470.994773867,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1564121647052.0671,
+    "miles_run": 1.1652687390260368,
+    "training_time": 10865835.28276298,
+    "shoe_brand": "Mizuno"
+  },
+  {
+    "training_date": 1633449170262.3523,
+    "miles_run": 9.092060805200314,
+    "training_time": 6616920.485582827,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1534314163911.167,
+    "miles_run": 7.691171074559709,
+    "training_time": 7030775.9794587605,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1561525438396.7488,
+    "miles_run": 9.152543927944384,
+    "training_time": 3241794.6936931564,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1593760419053.6667,
+    "miles_run": 14.905340102998817,
+    "training_time": 10187872.943649331,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1565299611974.5593,
+    "miles_run": 1.2481764267851818,
+    "training_time": 3875603.580838222,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1623622356881.8528,
+    "miles_run": 8.326921540199953,
+    "training_time": 7451752.759228078,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1531175002206.7002,
+    "miles_run": 7.7887697412102606,
+    "training_time": 4610850.908548949,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1578842470639.5884,
+    "miles_run": 21.136132481431634,
+    "training_time": 11222130.551214173,
+    "shoe_brand": "New Balance"
+  },
+  {
+    "training_date": 1532245419749.6353,
+    "miles_run": 9.91094819361785,
+    "training_time": 7514016.647366684,
+    "shoe_brand": "Izumi"
+  },
+  {
+    "training_date": 1516450374485.2173,
+    "miles_run": 3.9158184628190966,
+    "training_time": 9131261.69167699,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1658021216597.3748,
+    "miles_run": 22.571082036300453,
+    "training_time": 7454437.790702224,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1613970294334.9148,
+    "miles_run": 20.928611981692427,
+    "training_time": 3075039.4156290093,
+    "shoe_brand": "Brooks"
+  },
+  {
+    "training_date": 1594162645563.0981,
+    "miles_run": 12.706421090830997,
+    "training_time": 10399833.337430758,
+    "shoe_brand": "Other"
+  },
+  {
+    "training_date": 1573140065095.3835,
+    "miles_run": 21.559634741683464,
+    "training_time": 11337015.528133044,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1516780913282.2852,
+    "miles_run": 22.09439395453363,
+    "training_time": 3899526.268837496,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1657940179061.8198,
+    "miles_run": 13.30328654824206,
+    "training_time": 8923553.48882242,
+    "shoe_brand": "Adidas"
+  },
+  {
+    "training_date": 1571154881668.7368,
+    "miles_run": 22.706414763084908,
+    "training_time": 8878746.65591108,
+    "shoe_brand": "Adidas"
+  }
+]
