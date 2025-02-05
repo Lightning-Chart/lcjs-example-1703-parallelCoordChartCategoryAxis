@@ -49,23 +49,23 @@ fetch(document.head.baseURI + 'examples/assets/1703/training-by-shoe-category.js
             .setTickStrategy(AxisTickStrategies.Empty, (strategy) =>
                 strategy.setCursorFormatter((value) => shoeBrands[Math.round(value)] ?? ''),
             )
-        shoeBrands.forEach((brand, i) => chart.getAxis(Axes.shoe_brand).addCustomTick().setValue(i).setMouseInteractions(false))
+        shoeBrands.forEach((brand, i) => chart.getAxis(Axes.shoe_brand).addCustomTick().setValue(i).setPointerEvents(false))
 
         chart
             .getAxis(Axes.over_5_miles)
             .setTickStrategy(AxisTickStrategies.Empty, (strategy) =>
                 strategy.setCursorFormatter((value) => (value ? '> 5 miles' : '< 5 miles')),
             )
-        chart.getAxis(Axes.over_5_miles).addCustomTick().setValue(0).setMouseInteractions(false).setLabelAlignment(-1)
-        chart.getAxis(Axes.over_5_miles).addCustomTick().setValue(1).setMouseInteractions(false).setLabelAlignment(1)
+        chart.getAxis(Axes.over_5_miles).addCustomTick().setValue(0).setPointerEvents(false).setLabelAlignment(-1)
+        chart.getAxis(Axes.over_5_miles).addCustomTick().setValue(1).setPointerEvents(false).setLabelAlignment(1)
 
         chart
             .getAxis(Axes.after_2020)
             .setTickStrategy(AxisTickStrategies.Empty, (strategy) =>
                 strategy.setCursorFormatter((value) => (value ? 'After 2020' : 'Before 2020')),
             )
-        chart.getAxis(Axes.after_2020).addCustomTick().setValue(0).setMouseInteractions(false).setLabelAlignment(-1)
-        chart.getAxis(Axes.after_2020).addCustomTick().setValue(1).setMouseInteractions(false).setLabelAlignment(1)
+        chart.getAxis(Axes.after_2020).addCustomTick().setValue(0).setPointerEvents(false).setLabelAlignment(-1)
+        chart.getAxis(Axes.after_2020).addCustomTick().setValue(1).setPointerEvents(false).setLabelAlignment(1)
 
         // Configure nice labels and formatting for Axes.
         chart.getAxis(Axes.training_date).setTitle('Training date').setTickStrategy(AxisTickStrategies.DateTime)
