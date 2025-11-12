@@ -36,6 +36,8 @@ The example context is analysis of different shoe brands against several variabl
 
 ## API Links
 
+* [Parallel Coordinate Chart]
+* [Custom Tick]
 
 
 ## Support
@@ -59,4 +61,6 @@ Direct developer email support can be purchased through a [Support Plan][4] or b
 © LightningChart Ltd 2009-2025. All rights reserved.
 
 
+[Parallel Coordinate Chart]: https://lightningchart.com/js-charts/api-documentation/v8.1.0/classes/ParallelCoordinateChart.html
+[Custom Tick]: https://lightningchart.com/js-charts/api-documentation/v8.1.0/classes/CustomTick.html
 
