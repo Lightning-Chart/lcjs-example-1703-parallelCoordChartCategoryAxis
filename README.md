@@ -1,6 +1,6 @@
-# Parallel Coordinate Chart with Category and Date-Time axes
+# Parallel Coordinate Chart with Category/Datetime axes
 
-![Parallel Coordinate Chart with Category and Date-Time axes](parallelCoordChartCategoryAxis-darkGold.png)
+![Parallel Coordinate Chart with Category/Datetime axes](parallelCoordChartCategoryAxis-darkGold.png)
 
 This demo application belongs to the set of examples for LightningChart JS, data visualization library for JavaScript.
 
